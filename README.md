@@ -25,4 +25,6 @@ basic calculations with matrix or vector in the same size: >, <, >=, <=, ==, +, 
 
 basic calculations with single number: >, <, >=, <=, ==, +, -;
 
+MatSta.h contains the statement of classes and functions. MatDef.cpp contains the definition of classes and functions. Main.cpp is an example of main.cpp where you can edit your own code.
+
 More functions will be updated in the future.
